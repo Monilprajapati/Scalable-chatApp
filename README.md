@@ -1,6 +1,8 @@
-# Turborepo starter
 
-This is an official starter Turborepo.
+# Scalable Real-Time Chat Application
+
+A scalable real-time chat application using **Socket.IO** and **Redis** for pub/sub messaging. This setup ensures efficient communication and high performance across multiple users and instances.
+
 
 ## Using this example
 
